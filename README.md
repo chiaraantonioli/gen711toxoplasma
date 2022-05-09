@@ -4,4 +4,4 @@ This project is creating a phylogenetic tree based on sequencing data of 3 varia
 ## Methods
 ## Findings
 ## Poster
-![alt text](https://github.com/chiaraantonioli/gen711toxoplasma/figs/Antonioli_GEN711_Project.png "Poster")
+![alt text](https://github.com/chiaraantonioli/gen711toxoplasma/blob/main/figs/Antonioli_GEN711_Project.png "Poster")
