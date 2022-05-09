@@ -4,4 +4,4 @@ This project is creating a phylogenetic tree based on sequencing data of 3 varia
 ## Methods
 ## Findings
 ## Poster
-![alt text](http://url/to/Antonioli_GEN711_Project.png)
+[plot] (figs/Antonioli_GEN711_Project.png)
