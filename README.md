@@ -5,3 +5,4 @@ This project is creating a phylogenetic tree based on sequencing data of 3 varia
 ## Findings
 ## Poster
 [plot] (figs/Antonioli_GEN711_Project.png)
+<figs/Antonioli_GEN711_Project.png|plot>
