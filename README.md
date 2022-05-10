@@ -15,8 +15,6 @@ The first challenge for this investigation was that T. gondii Histone 4 was orig
 ## Findings
 ![alt text](https://github.com/chiaraantonioli/gen711toxoplasma/blob/main/figs/alignmentwplasmid.png "Alignment")
 
-![alt text](https://github.com/chiaraantonioli/gen711toxoplasma/blob/main/figs/histonetree.png "Tree1")
-
 ![alt text](https://github.com/chiaraantonioli/gen711toxoplasma/blob/main/figs/HistoneTreeWithPlasmo.png "Tree2")
 
 ## Poster
