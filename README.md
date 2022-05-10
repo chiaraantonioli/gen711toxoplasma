@@ -7,6 +7,9 @@ The transition between the life cycle stages of Toxoplasma is mediated by epigen
 
 This investigation analyzes the gene sequences of H2A.Z, H2A.X, H2A.1, H2Bv, and H4 to build a phylogenetic tree showing the relationships between the genes. It was hypothesized that H2A.Z and H2A.1 will be the most genetically similar because they both interact with H2Bv during gene activation.
 ## Methods
+The sequences for the 5 histone genes were downloaded from ToxoDB, an online database for Toxoplasma research funded by the US National Institute of Allergy and Infectious Diseases. All of the sequences are FASTA files from the Toxoplasma gondii ME49 strain. 
+
+The bioconda package was installed onto VScode into the conda environment. All of the FASTA files were combined into one file, and converted to an alignment file using the mafft program. The alignment file was visualized using Aliview. The alignments were compared to eachother and a plasmid which contains the H2A.Z gene from a previous study. The RAxML program was used to make a tree with 5 bootstraps. The GTRGAMMA option was used, which is a specific algorithm model of nucleotide substitution rates. The resulting tree was visualized using RStudio ggtree. 
 ## Findings
 ## Poster
 ![alt text](https://github.com/chiaraantonioli/gen711toxoplasma/blob/main/figs/Antonioli_GEN711_Project.png "Poster")
