@@ -26,17 +26,12 @@ Figure 2: The phylogenetic tree of T. gondii H2A.Z, H2A.X, H2Bv, and H4 with P. 
 
 Figure 3: The poster from the in-class presentation of this project.
 ## Citations
-Chen, Y., Liu, Q., Xue, J. X., Zhang, M. Y., Geng, X. L., Wang, Q., & Jiang, W. (2021). 
-       Genome-Wide CRISPR/Cas9 Screen Identifies New Genes Critical for Defense Against 
-       Oxidant Stress in Toxoplasma gondii. Frontiers in microbiology, 12, 670705. 
-       https://doi.org/10.3389/fmicb.2021.670705
+Chen, Y., Liu, Q., Xue, J. X., Zhang, M. Y., Geng, X. L., Wang, Q., & Jiang, W. (2021). Genome-Wide CRISPR/Cas9 Screen Identifies New Genes Critical for Defense Against  Oxidant Stress in Toxoplasma gondii. Frontiers in microbiology, 12, 670705. https://doi.org/10.3389/fmicb.2021.670705
   
-Centers For Disease Control and Prevention. (2018). Toxoplasmosis. 
-       https://www.cdc.gov/parasites/toxoplasmosis/
+Centers For Disease Control and Prevention. (2018). Toxoplasmosis. https://www.cdc.gov/parasites/toxoplasmosis/
   
-Dalmasso, M. C., Onyango, D. O., Naguleswaran, A., Sullivan, W. J., Jr, & Angel, S. O. (2009). Toxoplasma H2A variants reveal novel insights into
-       nucleosome composition and functions for this histone family. Journal of molecular biology, 392(1), 33–47. https://doi.org/10.1016/j.jmb.2009.07.017
+Dalmasso, M. C., Onyango, D. O., Naguleswaran, A., Sullivan, W. J., Jr, & Angel, S. O. (2009). Toxoplasma H2A variants reveal novel insights into nucleosome composition and functions for this histone family. Journal of molecular biology, 392(1), 33–47. https://doi.org/10.1016/j.jmb.2009.07.017
   
-Giaimo, B. D., Ferrante, F., Herchenröther, A., Hake, S. B., & Borggrefe, T. (2019). The histone variant H2A.Z in gene regulation. Epigenetics & chromatin,        12(1), 37. https://doi.org/10.1186/s13072-019-0274-9
+Giaimo, B. D., Ferrante, F., Herchenröther, A., Hake, S. B., & Borggrefe, T. (2019). The histone variant H2A.Z in gene regulation. Epigenetics & chromatin, 12(1), 37. https://doi.org/10.1186/s13072-019-0274-9
 
-Nardelli, S. C., Che, F. Y., Silmon de Monerri, N. C., Xiao, H., Nieves, E., Madrid-Aliste, C., Angel, S. O., Sullivan, W. J., Jr, Angeletti, R. H., Kim,          K., & Weiss, L. M. (2013). The histone code of Toxoplasma gondii comprises conserved and unique posttranslational modifications. mBio,4(6), e00922-        13. https://doi.org/10.1128/mBio.00922-13
+Nardelli, S. C., Che, F. Y., Silmon de Monerri, N. C., Xiao, H., Nieves, E., Madrid-Aliste, C., Angel, S. O., Sullivan, W. J., Jr, Angeletti, R. H., Kim, K., & Weiss, L. M. (2013). The histone code of Toxoplasma gondii comprises conserved and unique posttranslational modifications. mBio,4(6), e00922- 13. https://doi.org/10.1128/mBio.00922-13
