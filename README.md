@@ -13,7 +13,11 @@ The bioconda package was installed onto VScode into the conda environment. All o
 
 The first challenge for this investigation was that T. gondii Histone 4 was originally used as the outgroup for the phylogenetic tree. Histone 4 was too similar to the other proteins, so the tree was missing nodes. This problem was fixed by adding the P. falciparum gene. The second challenge of this investigation was that the computer used has limited processing power, so the original tree was only created with 5 bootstraps. Bootsraps are a measure of how likely the tree is to be accurate. The second tree was created with 10 boostraps, but this still may not be enough to ensure accuracy. 
 ## Findings
-![alt text](https://github.com/chiaraantonioli/gen711toxoplasma/blob/main/figs/alignmentwplasmid.png "Poster")
+![alt text](https://github.com/chiaraantonioli/gen711toxoplasma/blob/main/figs/alignmentwplasmid.png "Alignment")
+
+![alt text](https://github.com/chiaraantonioli/gen711toxoplasma/blob/main/figs/histonetree.png "Tree1")
+
+![alt text](https://github.com/chiaraantonioli/gen711toxoplasma/blob/main/figs/HistoneTreeWithPlasmo.png "Tree2")
 
 ## Poster
 ![alt text](https://github.com/chiaraantonioli/gen711toxoplasma/blob/main/figs/Antonioli_GEN711_Project.png "Poster")
