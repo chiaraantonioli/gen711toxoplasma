@@ -1,5 +1,5 @@
 # gen711toxoplasma
-This project is creating a phylogenetic tree based on sequencing data of 3 variants of Toxoplasma gondii histone 2A (1, X, and Z), histone 2B, and histone 4.
+This goal of this project is to a phylogenetic tree based on sequencing data of 3 variants of Toxoplasma gondii histone 2A (1, X, and Z), histone 2B, and histone 4.
 ## Background
 Toxoplasma gondii (Toxoplasma) is an extremely successful parasite that infects almost every species of mammal and bird. It is closely related to other species of apicomplexan parasites, such as Plasmodium and Cryptosporidium species, which also cause serious disease in humans. Toxoplasma has the ability to clonally reproduce in intermediate hosts and causes an opportunistic infection in immunocompromised patients, pregnant people, fetuses, and infants (Chen, 2021). The initial symptoms of Toxoplasma infection are similar to the flu, but the disease can progress in at-risk patients. In pregnant people, infection can result in miscarraige, birth defects, or stillbirth. In immunocompromised patients, infection can result in fever, headache, nausea, and confusion that persists after the initial infection period. Because Toxoplasma can infect any tissue in the body, it can also cause a serious ocular infection. Symptoms of an ocular Toxoplasma infection include blurry vision, eye pain, tears, and sensitivity to light (Centers For Disease Control and Prevention, 2018). 
 
@@ -15,8 +15,14 @@ The first challenge for this investigation was that T. gondii Histone 4 was orig
 ## Findings
 ![alt text](https://github.com/chiaraantonioli/gen711toxoplasma/blob/main/figs/alignmentwplasmid.png "Alignment")
 
+Figure 1: The alignment of T. gondii Histones 2A.Z, 2A.X, 2A.1, 2Bv, and 4 compared to a plasmid with the H2A.Z gene inserted. The plasmid and Histone 2A.Z align almost perfectly. Histones 2A.X and 2A.1 appear to be more similar to H2A.Z than H2Bv and H4.
+
 ![alt text](https://github.com/chiaraantonioli/gen711toxoplasma/blob/main/figs/HistoneTreeWithPlasmo.png "Tree2")
+
+Figure 2: The phylogenetic tree of T. gondii H2A.Z, H2A.X, H2Bv, and H4 with P. falciparum H4 added as an outgroup (PL H4). H2A.X and H2A.1 are most similar to eachother, and the H4 proteins of different species are also very similar to eachother. H2A.z is more similar to the other H2 proetins than the H4 proteins.
 
 ## Poster
 ![alt text](https://github.com/chiaraantonioli/gen711toxoplasma/blob/main/figs/Antonioli_GEN711_Project.png "Poster")
+
+Figure 3: The poster from the in-class presentation of this project.
 ## Citations
